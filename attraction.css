@@ -1,0 +1,26 @@
+body{
+background-color: cyan;
+color:red;
+margin-left: 20px;
+margin-right: 20px;
+}
+h1{
+color:blue;
+background-color:gold;
+border:5px groove springgreen;
+outline:2px dotted violet;
+text-align:center;
+text-shadow:1px 1px 2px red;
+}
+#taj{
+float:right;
+}
+p{
+padding:40px;
+}
+h3{
+color:blueviolet;
+background-color:mediumturquoise;
+border:3px groove fuchsia;
+text-align:center;
+}
